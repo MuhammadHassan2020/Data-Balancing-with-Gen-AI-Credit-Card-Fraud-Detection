@@ -42,21 +42,7 @@ The following PCA plot illustrates how closely the **synthetic fraud samples (or
 > Blue = Real Fraud | Orange = Synthetic Fraud  
 > A strong overlap indicates successful data generation and realistic learning by the GAN.
 
----
-
-## 🚀 Future Enhancements
-
-- Deploy trained model as a Flask or FastAPI API.
-- Experiment with Conditional GANs for more targeted synthesis.
-- Evaluate performance on other financial fraud datasets.
-
----
-
 ## 🤔 Why This Project?
 
 This project demonstrates the practical use of **Generative AI** in fraud analytics. By combining GANs and machine learning, it showcases an advanced technique to solve real-world problems like data imbalance, making it ideal for a data science and AI portfolio.
-
----
-
-## 📂 Project Structure
 
